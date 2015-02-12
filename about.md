@@ -5,9 +5,7 @@ permalink: /about/
 ---
 
 ###Alexander Kozovski
-Creative technologist,
-
-### More Information
+Creative technologist, charismatic Kilo Fauna :)
 
 ### Contact me
 
